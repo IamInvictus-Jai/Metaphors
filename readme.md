@@ -23,14 +23,4 @@ We have developed prototypes that showcase our learning and implementation of XR
   - **Pinch gestures**, similar to **Vision Pro** and **Meta Quest**.
 
 ## Next Steps
-To further enhance our project and develop it specifically for **Meta Quest**, we require access to the **XR Lab**. We have presented our work to our mentors **Sauhard Sir** and **Mrinal Sir**, who have provided valuable insights.
-
-## Attachments
-We have attached a **video demonstration** of our prototypes showcasing our progress.
-
-## Contact
-For further details or inquiries, please reach out to:
-**Team Metaphors**  
-[Your Name]  
-[Your Email]  
-[Your Contact Information]
+To further enhance our project and develop it specifically for **Meta Quest**, we require access to the **XR Lab**.
